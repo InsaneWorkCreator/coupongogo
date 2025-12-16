@@ -18,7 +18,7 @@ Just real savings, every time.
     <img src="https://img.shields.io/badge/Download-Edge-blue?style=for-the-badge&logo=microsoftedge" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.coupongogo.top/install?p=firefox&from=github" target="_blank">
+  <a href="https://www.coupongogo.top/install?p=safari&from=github" target="_blank">
     <img src="https://img.shields.io/badge/Download-Safari-black?style=for-the-badge&logo=safari" />
   </a>
 </p>
